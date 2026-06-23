@@ -94,3 +94,4 @@ PYTHONPATH=. streamlit run src/main.py
    - 대규모 이커머스 및 백본 결제망에서 실시간으로 인입되는 시계열 트랜잭션 로그를 대형 모델로 전수 처리하는 것은 구조적 예산 파산을 초래합니다. 본 시스템은 속도가 민칩하고 단가가 극도로 저렴한 경량 모델 gpt-5.4-nano를 전면 가드레일에 배치하여 실시간성을 보존하고 상시 스크리닝 운영 마진을 획기적으로 확보했습니다.
 
 ## 실행 화면
+<img width="1575" height="1032" alt="스크린샷 2026-06-23 090839" src="https://github.com/user-attachments/assets/30c800ef-ce25-4f3e-aab3-3b6c45b03d12" />
